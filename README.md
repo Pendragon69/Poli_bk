@@ -12,11 +12,3 @@ Database poliklinik tersedia pada folder database/poli_bk.sql
 ```
 ---
 
-## **Login Sebagai Dokter**
-**Secara default, username dokter = password dokter**
-
-*contoh :*
-```
-    username : Arthur
-    password : pendragon
-```
