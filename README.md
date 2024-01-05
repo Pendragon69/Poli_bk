@@ -17,6 +17,6 @@ Database poliklinik tersedia pada folder database/poli_bk.sql
 
 *contoh :*
 ```
-    username : Salim Sulaiman
-    password : Salim Sulaiman
+    username : Arthur
+    password : pendragon
 ```
